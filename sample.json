@@ -1,13 +1,1 @@
-addresses : {
-  {
-  name : "name",
-  age: "age",
-  city : "city
-} ,
-{
-  name : "name",
-  age: "age",
-  city : "city
-}
-
-}
+data = '[{"name" : "Riyaz"},{"name" : "Javed"},{"name" : "Arun"},{"name" : "Sunil"},{"name" : "Rahul"},{"name" : "Anita"}]';
