@@ -1,10 +1,1 @@
-data = '[
-{"name" : "sanjeev 1"},
-{"name" : "sanjeev 2"},
-{"name" : "sanjeev 3"},
-{"name" : "sanjeev 4"},
-{"name" : "sanjeev 5"},
-{"name" : "sanjeev 6"},
-{"name" : "sanjeev 7"}
-{"name" : "sanjeev 8"}
-]';
+data = '[{"name" : "sanjeev 1"},{"name" : "sanjeev 2"},{"name" : "sanjeev 3"},{"name" : "sanjeev 4"},{"name" : "sanjeev 5"},{"name" : "sanjeev 6"},{"name" : "sanjeev 7"}{"name" : "sanjeev 8"}]';
